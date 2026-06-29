@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Kết quả upload/detect (không đẩy lên)
+static/results/
+
+# Log server
+server_err.txt
+server_out.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
