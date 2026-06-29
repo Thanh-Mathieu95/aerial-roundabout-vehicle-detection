@@ -1,6 +1,6 @@
 # Roundabout Vehicle Detection — YOLOv11
 
-> Capstone Project · Machine and Deep Learning 03  
+
 > Traffic analysis at roundabouts using aerial (UAV) imagery
 
 ---
