@@ -140,9 +140,23 @@ Classes (in label ID order): `car`, `cycle`, `bus`, `truck`, `van`
 
 ## Run the Web Demo
 
-### Install dependencies
+### Prerequisites
+- Python 3.10+
+- Git
+
+### Installation
 
 ```bash
+# 1. Clone the repository
+git clone https://github.com/Thanh-Mathieu95/aerial-roundabout-vehicle-detection.git
+cd aerial-roundabout-vehicle-detection
+
+# 2. Create virtual environment
+python -m venv venv
+venv\Scripts\activate      # Windows
+# source venv/bin/activate # Linux/Mac
+
+# 3. Install dependencies
 pip install -r requirements.txt
 ```
 
