@@ -138,8 +138,22 @@ Notebook đầy đủ (EDA → Train → Evaluate) được lưu trên Google Dr
 
 ## Dataset
 
-**Roundabout Aerial Images** (YOLO format)  
-Classes: `car`, `truck`, `bus`, `motorcycle` (và các class khác theo thứ tự ID gốc)
+**Roundabout Aerial Images** (YOLO format) — lưu trên Google Drive cùng với notebook:
+
+**[Tải Dataset trên Google Drive](https://drive.google.com/drive/folders/1g-m2ngEMykuLrMfbZTnFc4BsxzUUkSWk?usp=sharing)**
+
+Cấu trúc thư mục sau khi tải về:
+```
+dataset/
+├── images/
+│   ├── train/
+│   └── val/
+└── labels/
+    ├── train/
+    └── val/
+```
+
+Classes: `car`, `truck`, `bus`, `motorcycle` (theo thứ tự ID gốc của bộ dữ liệu)
 
 ---
 
