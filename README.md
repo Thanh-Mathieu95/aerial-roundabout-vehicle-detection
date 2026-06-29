@@ -126,6 +126,16 @@ Mở trình duyệt tại **http://127.0.0.1:8000**
 
 ---
 
+## Notebook Training
+
+Notebook đầy đủ (EDA → Train → Evaluate) được lưu trên Google Drive:
+
+**[Mở trên Google Drive](https://drive.google.com/drive/folders/1g-m2ngEMykuLrMfbZTnFc4BsxzUUkSWk?usp=sharing)**
+
+> File `capstone_roundabout.ipynb` — chạy trên Google Colab (cần GPU)
+
+---
+
 ## Dataset
 
 **Roundabout Aerial Images** (YOLO format)  
