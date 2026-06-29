@@ -1,6 +1,12 @@
 # Roundabout Vehicle Detection — YOLOv11
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-Ultralytics-purple)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.136-green?logo=fastapi)
+![mAP@50](https://img.shields.io/badge/mAP%4050-83.2%25-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
+> Capstone Project · Machine and Deep Learning 03  
 > Traffic analysis at roundabouts using aerial (UAV) imagery
 
 ---
