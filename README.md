@@ -6,7 +6,7 @@
 ![mAP@50](https://img.shields.io/badge/mAP%4050-83.2%25-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-> Capstone Project · Machine and Deep Learning 03  
+
 > Traffic analysis at roundabouts using aerial (UAV) imagery
 
 ---
